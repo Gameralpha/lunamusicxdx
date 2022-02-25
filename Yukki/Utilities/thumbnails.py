@@ -42,7 +42,7 @@ async def gen_thumb(thumbnail, title, userid, theme, ctitle):
     )
     draw.text(
         (27, 543),
-        f"Playing on {ctitle[:12]}",
+        f"Playing on {ctitle[:10]}",
         fill="black",
         font=font,
     )
