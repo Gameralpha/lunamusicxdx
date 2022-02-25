@@ -161,13 +161,13 @@ options = [
 ]
 
 options_Genre = [
-    "Rock",
+    "Kuthu",
     "Sad",
     "Party",
-    "Lofi",
+    "Happy",
     "Bollywood",
     "Hollywood",
-    "Punjabi",
+    "Rock",
     "Others",
 ]
 
